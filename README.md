@@ -4,7 +4,7 @@
 
 ## 项目简介
 
-PromptRefine AI 是一个面向小红书内容运营人员的 Prompt 评测与自动迭代工作台。核心闭环：
+PromptRefine AI 是一个面向小红书内容文案运营人员的 Prompt 评测与自动迭代工作台。核心闭环：
 
 ```
 上传测试集 → 输入 Prompt → 批量生成 → AI 四维评测 → 发现问题 → AI 优化 Prompt → A/B 测试 → Badcase 回归 → 验收 → 保存版本
